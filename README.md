@@ -1,6 +1,6 @@
 ## Namaste! <img src="https://raw.githubusercontent.com/Anup-Narkhede/Anup-Narkhede/master/wave.gif" width="30px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anup-narkhede-3291211ab/)](https://www.linkedin.com/in/anup-narkhede-3291211ab/)
+[![Linkedin Badge](https://img.shields.io/badge/-Anup-Narkhede-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anup-narkhede-3291211ab/)](https://www.linkedin.com/in/anup-narkhede-3291211ab/)
 
 ## ⚡ Technologies
 
