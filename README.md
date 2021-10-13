@@ -1,9 +1,10 @@
+<html>
 <div align="center">
-   <h1>Namaste ! I'm <a href="https://anup-narkhede.github.io/Portfolio/">Anup</a> <img src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="25px"> </h1>
+   <h1>Namaste ! I'm <a href="https://anup-narkhede.github.io/Portfolio/">Anup</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
-   
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
+</html>
+
 [![Linkedin Badge](https://img.shields.io/badge/-AnupNarkhede-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anup-narkhede-3291211ab/)](https://www.linkedin.com/in/anup-narkhede-3291211ab/)
 
 ## ⚡ Technologies
