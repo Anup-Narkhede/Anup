@@ -33,12 +33,7 @@
         <img src="https://demobucketanup.s3.ap-south-1.amazonaws.com/Microsoft+Certified+Azure+Fundamentals(AZ-900).png" width="200 px" height = "200px" >
      </a>
      <a href="https://www.credly.com/badges/d5bbe203-a278-4708-948a-56f3cd132425">
-        <img src="https://demobucketanup.s3.ap-south-1.amazonaws.com/aws+graduate.png" width="200 px" height = "200px" >
+        <img src="https://demobucketanup.s3.ap-south-1.amazonaws.com/AWS-Academy-Graduate-Badge-Foundational.png" width="200 px" height = "200px" >
      </a>
   </div>
-  <div>  
-  <a href="https://www.credly.com/badges/d5bbe203-a278-4708-948a-56f3cd132425">
-        <img src="https://demobucketanup.s3.ap-south-1.amazonaws.com/aws+graduate.png" width="200 px" height = "200px" >
-     </a>
-   </div>
 </html>
