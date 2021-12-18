@@ -30,7 +30,7 @@
 <div align="center">
    <h1>Badges </h1>
      <a href="https://www.credly.com/badges/f98694af-f545-40e4-950b-152a7faff3d4?source=linked_in_profile">
-        <img src="https://demobucketanup.s3.ap-south-1.amazonaws.com/Microsoft+Certified+Azure+Fundamentals(AZ-900).png" >
+        <img src="https://demobucketanup.s3.ap-south-1.amazonaws.com/Microsoft+Certified+Azure+Fundamentals(AZ-900).png" width="50 px" height = "50px" >
      </a>
   </div>
 </html>
