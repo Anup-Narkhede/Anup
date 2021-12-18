@@ -32,6 +32,9 @@
      <a href="https://www.credly.com/badges/f98694af-f545-40e4-950b-152a7faff3d4?source=linked_in_profile">
         <img src="https://demobucketanup.s3.ap-south-1.amazonaws.com/Microsoft+Certified+Azure+Fundamentals(AZ-900).png" width="200 px" height = "200px" >
      </a>
+     <a href="https://www.credly.com/badges/d5bbe203-a278-4708-948a-56f3cd132425">
+        <img src="https://demobucketanup.s3.ap-south-1.amazonaws.com/aws+graduate.png" width="200 px" height = "200px" >
+     </a>
   </div>
   <div>  
   <a href="https://www.credly.com/badges/d5bbe203-a278-4708-948a-56f3cd132425">
