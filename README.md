@@ -23,9 +23,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anup-Narkhede&hide=TeX&layout=compact)
 
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Anup-Narkhede.aemmadi)
-
 <html>
 <div>
    <h1>Badges </h1>
@@ -37,3 +34,8 @@
      </a>
   </div>
 </html>
+
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Anup-Narkhede.aemmadi)
+
