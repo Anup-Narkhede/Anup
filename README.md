@@ -10,7 +10,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-AnupNarkhede-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anup-narkhede-3291211ab/)](https://www.linkedin.com/in/anup-narkhede-3291211ab/) 
    
-   <img align ="right" src = "https://demobucketanup.s3.ap-south-1.amazonaws.com/Comp-1_3-1.gif" width="250" height="250">
+   <img align ="right" src = "https://demobucketanup.s3.ap-south-1.amazonaws.com/output-onlinegiftools+(1).gif" width="350" height="350">
    
  </div>
  
