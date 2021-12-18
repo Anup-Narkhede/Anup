@@ -9,9 +9,8 @@
 <h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-AnupNarkhede-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anup-narkhede-3291211ab/)](https://www.linkedin.com/in/anup-narkhede-3291211ab/) 
-   <a>
-    <img src="  https://demobucketanup.s3.ap-south-1.amazonaws.com/Comp-1_3-1.gif" width="200 px" height = "200px" >
-   </a>
+   
+   <img align ="right" src = "https://demobucketanup.s3.ap-south-1.amazonaws.com/Comp-1_3-1.gif" width="250" height="250">
    
  </div>
  
