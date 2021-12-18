@@ -5,6 +5,9 @@
 </div>
 </html>
 
+
+<h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h2>
+
 [![Linkedin Badge](https://img.shields.io/badge/-AnupNarkhede-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anup-narkhede-3291211ab/)](https://www.linkedin.com/in/anup-narkhede-3291211ab/)
 
 ## ⚡ Technologies
