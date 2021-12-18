@@ -23,7 +23,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anup-Narkhede&hide=TeX&layout=compact)
 
-## :shield: Badges 
+## :shield:  Badges 
 <html>
 <div>
      <a href="https://www.credly.com/badges/f98694af-f545-40e4-950b-152a7faff3d4?source=linked_in_profile">
