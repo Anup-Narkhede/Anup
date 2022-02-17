@@ -49,3 +49,6 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Anup-Narkhede.aemmadi)
 
+
+![mpa](https://github-readme-stats.vercel.app/api/pin/username=Anup-Narkhede&repo=AWS-Projects&show_owner=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bgcolor&hide_border=true)
+
