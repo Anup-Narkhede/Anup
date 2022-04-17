@@ -33,7 +33,7 @@
 <html>
 <div>
       <a href="https://www.credly.com/badges/ccb0de67-b0ff-432b-9ddd-75a4ec4f3bd1">
-         <img src="https://demobucketanup.s3.ap-south-1.amazonaws.com/practitioner_badge-aws.png" width="120 px" height = "150px" >
+         <img src="https://demobucketanup.s3.ap-south-1.amazonaws.com/practitioner_badge-aws.png" width="140 px" height = "150px" >
       </a>
      <a href="https://www.credly.com/badges/d5bbe203-a278-4708-948a-56f3cd132425">
         <img src="https://demobucketanup.s3.ap-south-1.amazonaws.com/AWS-Academy-Graduate-Badge-Foundational.png" width="150 px" height = "150px" >
