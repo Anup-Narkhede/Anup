@@ -30,15 +30,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anup-Narkhede&hide=TeX&layout=compact)
 
 
-                  ### Socials
+                 
                   
                   
-                <p align="left">
+ <p align="left">
                           
-                      <a href="https://www.github.com/Anup-Narkhede" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/Anup-Narkhede"><img src="https://github-readme-stats.vercel.app/api?username=Anup-Narkhede&show_icons=true&hide=stars,prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Anup-Narkhede's GitHub stats" /></a><a
-                      href="http://www.github.com/Anup-Narkhede"><img src="https://activity-graph.herokuapp.com/graph?username=Anup-Narkhede&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/Anup-Narkhede/Boto3-Python-SDK" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Anup-Narkhede&repo=Boto3-Python-SDK&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Anup-Narkhede/AWS-Projects" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Anup-Narkhede&repo=AWS-Projects&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/Anup-Narkhede/Docker-Project-Mongo-Node-AWS-ECR-" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Anup-Narkhede&repo=Docker-Project-Mongo-Node-AWS-ECR-&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Anup-Narkhede/Python" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Anup-Narkhede&repo=Python&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
+ <a href="https://www.github.com/Anup-Narkhede" target="_blank" rel="noreferrer"></a></p><b>My GitHub Stats</b><a
+href="http://www.github.com/Anup-Narkhede"><img src="https://activity-graph.herokuapp.com/graph?username=Anup-Narkhede&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+                      
 ## :shield:  Badges 
 <html>
 <div>
