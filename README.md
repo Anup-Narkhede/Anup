@@ -34,9 +34,9 @@
                   
                   
  <p align="left">
-                          
+ <! --                         
  <a href="https://www.github.com/Anup-Narkhede" target="_blank" rel="noreferrer"></a></p><b>My GitHub Stats</b><a
-href="http://www.github.com/Anup-Narkhede"><img src="https://activity-graph.herokuapp.com/graph?username=Anup-Narkhede&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+href="http://www.github.com/Anup-Narkhede"><img src="https://activity-graph.herokuapp.com/graph?username=Anup-Narkhede&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
                       
 ## :shield:  Badges 
 <html>
