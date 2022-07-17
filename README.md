@@ -10,6 +10,8 @@
  <img align ="right" src = "https://demobucketanup.s3.ap-south-1.amazonaws.com/output-onlinegiftools+(1).gif" width="350" height="350">
    
 [![Linkedin Badge](https://img.shields.io/badge/-AnupNarkhede-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anup-narkhede-3291211ab/)](https://www.linkedin.com/in/anup-narkhede-3291211ab/)
+
+   ![AnupNarkhede](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anup-narkhede-3291211ab/)](https://www.linkedin.com/in/anup-narkhede-3291211ab/)
    
   
    
