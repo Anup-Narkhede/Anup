@@ -55,12 +55,16 @@ href="http://www.github.com/Anup-Narkhede"><img src="https://activity-graph.hero
      <a href="https://www.credly.com/badges/7c20de9c-e554-49bb-b4cc-9921046c1198">
         <img src="https://github.com/Anup-Narkhede/Anup-Narkhede/blob/main/practitioner.png" width="150 px" height = "150px" >
      </a>
+    <a href="https://www.credly.com/badges/f98694af-f545-40e4-950b-152a7faff3d4">
+        <img src="https://github.com/Anup-Narkhede/Anup-Narkhede/blob/main/azure-fundamentals.png" width="150 px" height = "150px" >
+     </a>
+   
   
    
   </div>
 </html>
 
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Anup-Narkhede.visitor-badge)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Anup-Narkhede.aemmadi)
 
